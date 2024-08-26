@@ -1,4 +1,4 @@
-hadoop-hbase-tools
+Hadoop Hbase tools
 ==================
 Small collections of Ruby scripts that make running Hadoop / HBase clusters easier.
 
